@@ -1,1 +1,1 @@
-# Fake-News-Prediction-
+This repository contains a machine learning model designed to detect and predict fake news. The model leverages natural language processing (NLP) techniques to analyze news articles and classify them as real or fake. This project aims to provide a tool to help combat the spread of misinformation.
